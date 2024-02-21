@@ -18,8 +18,14 @@ Emad Mostaque
 - Removing creative barriers for some and opening up artisitc image and video creation to a new audience
 - Global AI market image generator size is about USD 917.448 million by 2030, with a CAGR of 17.4% 
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
-- Creative people such as artists, designers, marketing professionals, content creators, social media managers, animators and game developers. 
+- The target audience is creative people such as artists, designers, marketing professionals, content creators, social media managers, animators and game developers. 
+- Sizing the market is a bit challenging for these reasons:
+    - Its a new and emerging market that is rapdialy evolving. 
+    - Stability AI spans several broad industries like design, art, marketing and even research. 
+    - Open source model can be difficult to quantify monetaritly. 
+Estimates on market size are in 2022 $15.42 billion and projected to grow to 84.69 billion by 2030.
+ [AI Text Generator Market Size, Share & Growth Report, 2030:](https://www.grandviewresearch.com/industry-analysis/ai-text-generator-market-report).
+- 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
