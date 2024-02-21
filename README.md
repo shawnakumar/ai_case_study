@@ -23,7 +23,7 @@ Emad Mostaque
     - Its a new and emerging market that is rapdialy evolving. 
     - Stability AI spans several broad industries like design, art, marketing and even research. 
     - Open source model can be difficult to quantify monetaritly. 
-Estimates on market size are in 2022 $15.42 billion and projected to grow to 84.69 billion by 2030. <br>
+Estimates on market size are in 2022 $15.42 billion and projected to grow to 84.69 billion by 2030. <br />
  [AI Text Generator Market Size, Share & Growth Report, 2030:](https://www.grandviewresearch.com/industry-analysis/ai-text-generator-market-report).
 - 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
