@@ -2,14 +2,14 @@ ps# ai_case_study
 # AI Case Study of StabilityAI 
 
 ## Introduction
-* Stability AI, a VC funded company, emerged as a leading force in AI, that specifically focuses on image and video generation. Established in 2021 by Emad Mostaque, Stability AI quicklly positioned itself around its flagship product, Stable Diffusion, which is recognized as a leading tool for text to image/video creation. 
+Stability AI, a VC funded company, emerged as a leading force in AI, that specifically focuses on image and video generation. Established in 2021 by Emad Mostaque, Stability AI quicklly positioned itself around its flagship product, Stable Diffusion, which is recognized as a leading tool for text to image/video creation. 
 
 Operating from the core tenant of innovation and rapid development, Stability AI has been paralleling the developments of OpenAI's pre-release Text to Video platform, Sora, which shares the same diffusion technology as Stability AI's offering. This demonstrates the the dynamic and rapidly evolving devlepments in the AI Sector. 
 
 StabilityAI has a total funding of $173.8 million to date.[15] This financial backing by investors demonstrates the confidence in Stability AI's potential to redefine and lead in its domain.
 
 ## Problem Statement, Solution and Technology
-* StabilityAI is addressing the following challenges:
+StabilityAI is addressing the following challenges:
 - Enhancing artistic expressino and imagination by offering new methods to create images and videos.
 - Reducing the time it takes for users to produce images and videos.
 - Eliminating creative barriers for some and opening up artisitc image and video creation to a new audience
@@ -31,8 +31,8 @@ StabilityAI has a total funding of $173.8 million to date.[15] This financial ba
     - Machine Learning Frameworks like TensorFlow and PyTorch.
 
 ## Business Landscape
-* StabiityAI operates in the field of Generative AI or AI for content creation. This field focuses on developing model that create new and original content such images audio and video that is based on user prompts or text instructions. 
-* The field of Generative AI has has seen dramatic growth in the past 10 years:
+StabiityAI operates in the field of Generative AI or AI for content creation. This field focuses on developing model that create new and original content such images audio and video that is based on user prompts or text instructions. 
+The field of Generative AI has has seen dramatic growth in the past 10 years:
     - 2014: The introduction of Generative Adversarial Networks (GAN's) was a major step foward in this technology allowing for the creation of high quality realistic looking images. 
     - 2017: Transformers were introduced with the paper [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf) (Vaswani et al., 2017) which changed the whole landscape of NLP (Natural Language Processing) and led to advancements in text to image models. 
     - 2020: The inroduction of diffusion models showed a new approach to Generative AI. These models work gradually by adding noise to an image and then revrsing the process and creating a new image based on the instructions/prompts. 
