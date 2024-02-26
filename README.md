@@ -5,9 +5,8 @@ ps# ai_case_study
 
 * Stability AI
 * Founded in 2021
-* Founders
-Emad Mostaque
-* I have been following the AI space when it comes to image and video generations and Stable Diffusion comes up as a leader in the space at the current time. 
+* Founders - Emad Mostaque
+* When it comes to image and video generations and Stable Diffusion comes up as a leader in the space at the current time but this is a rapidly evolving space and at the time of this writing OpenAI has a done a pre-release on their new Text to Video platorm Sora using the same technlogy at StabilityAI
 * The company is funded with VC money and current total funding amount is 173.8 million. 
 
 ## Business Activities
@@ -24,20 +23,39 @@ Emad Mostaque
     - Stability AI spans several broad industries like design, art, marketing and even research. 
     - Open source model can be difficult to quantify monetaritly. 
 Estimates on market size are in 2022 $15.42 billion and projected to grow to 84.69 billion by 2030. <br />
- [AI Text Generator Market Size, Share & Growth Report, 2030:](https://www.grandviewresearch.com/industry-analysis/ai-text-generator-market-report).
-- 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+[AI Text Generator Market Size, Share & Growth Report, 2030:](https://www.grandviewresearch.com/industry-analysis/ai-text-generator-market-report).
+* StabilityAI positions themselves in the market in the following ways:
+    - Open Source is where their core models are built therefore anyone can access these models, use them and contribute to them. This fosters a strong developer community, attracts talent, and rapid innovation vs the closed models of the competitors. 
+    - Diffusion Technology is a unique approach that excels in generating diverse, high-quality outputs with more control over the generation process. 
+    - Decentralization avoids control by 1 company or government. 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Technoogy:
+    - Diffustion Models which work by gradually adding noise to an image then learning to reverse the process and then generating a new image based on the prompt.The diffusion technology pioneered by StabilityAI are more efficient and produce high quality images and videos. 
+    - Transformer architecture included in models like StableLM 
+    - Machine Learning Frameworks like TensorFlow and PyTorch
+
 
 ## Landscape
 
-* What field is the company in? Image and Video Creation
+* StabiityAI operates in the field of Generative AI or AI for content creation. This field focuses on developing model that create new and original content such images audio and video that is based on user prompts or text instructions. 
+* The field of Generative AI has has seen dramatic growth in the past 10 years:
+    - 2014: The introduction of Generative Adversarial Networks (GAN's) was a major step foward in this technology allowing for the creation of high quality realistic looking images. 
+    - 2017: Transformers were introduced with the paper [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf) (Vaswani et al., 2017) which changed the whole landscape of NLP (Natural Language Processing) and led to advancements in text to image models. 
+    - 2020: The inroduction of diffusion models showed a new approach to Generative AI. These models work gradually by adding noise to an image and then revrsing the process and creating a new image based on the instructions/prompts. 
 
-* What have been the major trends and innovations of this field over the last 5-10 years?
+* The Major companies in this competitive landscape:
+## Competitive Landscape:
 
-* What are the other major companies in this field?
-MidJourney, Dall-E (Sora for Video), Runway and Craiyon
+**Feature** | **Stability AI** | **OpenAI (DALL-E 2)** | **Midjourney** | **RunwayML** | **Craiyon** | **NVIDIA** | **Google AI** |
+------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+**Open Source** | Yes (core models) | No | No | No | No | No | Limited |
+**Target User** | Developers, Artists, Researchers | Researchers, Businesses | Artists, Designers | Creative Professionals | General Users | N/A | Researchers, Developers |
+**Accessibility** | Web Interface, API, Integrations | Closed Beta, API Access | Waitlist & Paid Subscription | Paid Subscription | Free Web Interface | N/A | Limited Access |
+**Image Quality** | High, Diverse | High Fidelity, Photorealistic | Artistic, Dreamlike | Stylized, Surreal | Varies, Meme-like | N/A | Varies |
+**Text-to-Image Control** | Detailed Prompts, Style Transfer | Extensive Prompt Control | Limited Prompt Control | Moderate Prompt Control | Simple Prompts | N/A | Varies |
+**Pricing** | Freemium (core models), Paid Services | Paid API Access | Paid Subscription | Paid Subscription | Free & Pro Versions | N/A | Research-focused |
+**Key Strengths** | Open-source, efficiency, community, decentralization | High quality, research focus | Artistic style, unique outputs | Ease of use, diverse styles | Free access, meme generation | Hardware acceleration | Broad research focus |
+**Key Weaknesses** | Misuse potential, sustainability, competition | Closed-source, limited access | Waitlist, limited control | Lower customization | Lower quality, potential bias | N/A | Limited user-facing applications |
 
 ## Results
 
