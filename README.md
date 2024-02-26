@@ -46,7 +46,7 @@ The field of Generative AI has has seen dramatic growth in the past 10 years:
 **Image Quality** | High, Diverse | High Fidelity| Artistic, Dreamlike | Stylized, Surreal | Varies, Meme-like |
 **Text-to-Image Control** | Detailed Prompts, Style Transfer | Extensive Prompt Control | Limited Prompt Control | Moderate Prompt Control | Simple Prompts |
 **Pricing** | Freemium, Paid Services | Paid API Access | Paid Subscription | Paid Subscription | Free & Pro Versions | [1],[2],[3],[4],[5]
-**Note:** * At the time of this writing OpenAI has given a preview of the new text to Video which is showing extremely realistic and promising results which is most likey to be releaed in 2024.
+[1],[2],[3],[4],[5]
 
 ## Impact
 * StabilityAI core diffusion technology has led the industry on whats possible with text-to-image generation by acheiving high fidelity results. There is potential to disrupt various creative industries like design, advertising, entertainment and content creation. StabiityAI open-source approach engages the community which accelerates innovation, development and adoption. 
