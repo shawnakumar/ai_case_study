@@ -33,9 +33,9 @@ StabilityAI is addressing the following challenges:
 ## Business Landscape
 StabiityAI operates in the field of Generative AI or AI for content creation. This field focuses on developing model that create new and original content such images audio and video that is based on user prompts or text instructions. 
 The field of Generative AI has has seen dramatic growth in the past 10 years:
-    - 2014: The introduction of Generative Adversarial Networks (GAN's) was a major step foward in this technology allowing for the creation of high quality realistic looking images. 
-    - 2017: Transformers were introduced with the paper [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf) (Vaswani et al., 2017) which changed the whole landscape of NLP (Natural Language Processing) and led to advancements in text to image models. 
-    - 2020: The inroduction of diffusion models showed a new approach to Generative AI. These models work gradually by adding noise to an image and then revrsing the process and creating a new image based on the instructions/prompts. 
+* 2014: The introduction of Generative Adversarial Networks (GAN's) was a major step foward in this technology allowing for the creation of high quality realistic looking images. 
+* 2017: Transformers were introduced with the paper [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf) (Vaswani et al., 2017) which changed the whole landscape of NLP (Natural Language Processing) and led to advancements in text to image models. 
+* 2020: The inroduction of diffusion models showed a new approach to Generative AI. These models work gradually by adding noise to an image and then revrsing the process and creating a new image based on the instructions/prompts. 
 
 ## The Competitive Landscape:
 **Feature** | **Stability AI** | **OpenAI (DALL-E 2)** | **Midjourney** | **RunwayML** | **Craiyon** |
