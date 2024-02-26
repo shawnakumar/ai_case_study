@@ -53,22 +53,37 @@ Estimates on market size are in 2022 $15.42 billion and projected to grow to 84.
 **Image Quality** | High, Diverse | High Fidelity, Photorealistic | Artistic, Dreamlike | Stylized, Surreal | Varies, Meme-like |
 **Text-to-Image Control** | Detailed Prompts, Style Transfer | Extensive Prompt Control | Limited Prompt Control | Moderate Prompt Control | Simple Prompts |
 **Pricing** | Freemium (core models), Paid Services | Paid API Access | Paid Subscription | Paid Subscription | Free & Pro Versions |
-
+**Note:**
+* At the time of this writing OpenAI has given a preview of the new text to Video which is showing extremely realistic and promising results which is most likey to be releaed in 2024.
 
 ## Results
 
-* What has been the business impact of this company so far?
-
+* StabilityAI core diffusion technology has led the industry on whats possible with text-to-image generation by acheiving high fidelity results. There is potential to disrupt various creative industries like design, advertising, entertainment and content creation. StabiityAI open-source approach engages the community which accelerates innovation, development and adoption. 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
-* How is your company performing relative to competitors in the same field?
-
+* Financial Stability
+    - StabilityAI has acheived what some have called Unicorn status but there are indications that they have experienced substanstial financial losses. In Nov 2023 there are repots that the CEO was being pressured to resign and company was looking for buyers.[6]
+* Market Reach 
+    - The open source approach has potential to lead in the market vs closed source models like OpenAI but lack of user friendly interface could present challengs for the non-technical users. 
 ## Recommendations
-
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+# To Increase Market Reach
+ -  Offer a more User-Friendly Interface for non-technical users that is more intuitive offering text input, image editing and collabrative features. This would increae market penetration and enhance the image of the brand. 
+ - Offer Enterprise-level AI solutoins and Partnerships that are customized to specific industries. This would diversity the revenue stream, bring in high value contracts and foster innovation in specific indsutries. 
+# Technolgies needed
+  - Front-end development frameworks (ReactJS, Angular and Vue.JS). These frameworks allow a more rapid devlopment cycle and provide the abiity to offer a more modern intuitive interface. [7],[8],[9]
+  - Back-end development frameworks (Node.JS and Python). Provide a flexible and efficient foundation for server side logic in a more efficient manner. [10],[11]
+  - Cloud Infrastruture (AWS, MS Azure, Google Cloud). These offer a more scalable and reliable computing resources that can scale with teh user base. [12],[13],[14]
+## References
+1. Stability AI: [Stability AI](https://stability.ai/)
+2. OpenAI: [OpenAI](https://openai.com/)
+3. Midjourney: [Midjourney](https://midjourney.com/)
+4. RunwayML: [RunwayML](https://runwayml.com/)
+5. Craiyon (formerly DALL-E Mini): [Craiyon](https://craiyon.com/)
+6. Fresh off an Intel investment, Stability AI looks for buyers as investors pressure CEO to resign [Fortune](https://fortune.com/2023/11/29/stability-ai-sale-intel-ceo-resign/)
+7.  ReactJS: [https://legacy.reactjs.org/docs/getting-started.html](https://legacy.reactjs.org/docs/getting-started.html)
+8.  Angular: [https://angular.io/](https://angular.io/)
+9.  Vue.js: [https://vuejs.org/](https://vuejs.org/)
+10. Node.js: [https://nodejs.org/en](https://nodejs.org/en)
+11. Django: [https://www.djangoproject.com/](https://www.djangoproject.com/)
+12. Amazon Web Services (AWS): [https://aws.amazon.com/](https://aws.amazon.com/)
+13. Microsoft Azure: [https://azure.microsoft.com/en-us](https://azure.microsoft.com/en-us)
+14. Google Cloud Platform (GCP): [https://cloud.google.com/](https://cloud.google.com/)
