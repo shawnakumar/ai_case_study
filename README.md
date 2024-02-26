@@ -45,16 +45,15 @@ Estimates on market size are in 2022 $15.42 billion and projected to grow to 84.
 
 ## The Competitive Landscape:
 
-**Feature** | **Stability AI** | **OpenAI (DALL-E 2)** | **Midjourney** | **RunwayML** | **Craiyon**  
-------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-**Open Source** | Yes (core models) | No | No | No | No 
-**Target User** | Developers, Artists, Researchers | Researchers, Businesses | Artists, Designers | Creative Professionals | General Users
-**Accessibility** | Web Interface, API, Integrations | Closed Beta, API Access | Waitlist & Paid Subscription | Paid Subscription | Free Web Interface 
-**Image Quality** | High, Diverse | High Fidelity, Photorealistic | Artistic, Dreamlike | Stylized, Surreal | Varies, Meme-like 
-**Text-to-Image Control** | Detailed Prompts, Style Transfer | Extensive Prompt Control | Limited Prompt Control | Moderate Prompt Control | Simple Prompts 
-**Pricing** | Freemium (core models), Paid Services | Paid API Access | Paid Subscription | Paid Subscription | Free & Pro Versions 
-**Key Strengths** | Open-source, efficiency, community, decentralization | High quality, research focus | Artistic style, unique outputs | Ease of use, diverse styles | Free access, meme generation
-**Key Weaknesses** | Misuse potential, sustainability, competition | Closed-source, limited access | Waitlist, limited control | Lower customization | Lower quality, potential bias 
+**Feature** | **Stability AI** | **OpenAI (DALL-E 2)** | **Midjourney** | **RunwayML** | **Craiyon** |
+------- | -------- | -------- | -------- | -------- | -------- |
+**Open Source** | Yes (core models) | No | No | No | No |
+**Target User** | Developers, Artists, Researchers | Researchers, Businesses | Artists, Designers | Creative Professionals | General Users |
+**Accessibility** | Web Interface, API, Integrations | Closed Beta, API Access | Waitlist & Paid Subscription | Paid Subscription | Free Web Interface |
+**Image Quality** | High, Diverse | High Fidelity, Photorealistic | Artistic, Dreamlike | Stylized, Surreal | Varies, Meme-like |
+**Text-to-Image Control** | Detailed Prompts, Style Transfer | Extensive Prompt Control | Limited Prompt Control | Moderate Prompt Control | Simple Prompts |
+**Pricing** | Freemium (core models), Paid Services | Paid API Access | Paid Subscription | Paid Subscription | Free & Pro Versions |
+
 
 ## Results
 
