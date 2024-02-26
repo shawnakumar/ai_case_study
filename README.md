@@ -1,42 +1,36 @@
 ps# ai_case_study
-# TITLE
+# AI Case Study of StabilityAI 
 
-## Overview and Origin
+## Introduction
+* Stability AI, a VC funded company, emerged as a leading force in AI, that specifically focuses on image and video generation. Established in 2021 by Emad Mostaque, Stability AI quicklly positioned itself around its flagship product, Stable Diffusion, which is recognized as a leading tool for text to image/video creation. 
 
-* Stability AI
-* Founded in 2021
-* Founders - Emad Mostaque
-* When it comes to image and video generations and Stable Diffusion comes up as a leader in the space at the current time but this is a rapidly evolving space and at the time of this writing OpenAI has a done a pre-release on their new Text to Video platorm Sora using the same technlogy at StabilityAI
-* The company is funded with VC money and current total funding amount is 173.8 million. 
+Operating from the core tenant of innovation and rapid development, Stability AI has been paralleling the developments of OpenAI's pre-release Text to Video platform, Sora, which shares the same diffusion technology as Stability AI's offering. This demonstrates the the dynamic and rapidly evolving devlepments in the AI Sector. 
 
-## Business Activities
+StabilityAI has a total funding of $173.8 million to date.[15] This financial backing by investors demonstrates the confidence in Stability AI's potential to redefine and lead in its domain.
 
-* The main problem StabilityAI attempting to solve is as follows:
-- Opening up artistic expressino and imagination by offering new methods to create images and videos
-- Saving time it takes for the user to create images and videos
-- Removing creative barriers for some and opening up artisitc image and video creation to a new audience
-- Global AI market image generator size is about USD 917.448 million by 2030, with a CAGR of 17.4% 
-
-- The target audience is creative people such as artists, designers, marketing professionals, content creators, social media managers, animators and game developers. 
-- Sizing the market is a bit challenging for these reasons:
+## Problem Statement, Solution and Technology
+* StabilityAI is addressing the following challenges:
+- Enhancing artistic expressino and imagination by offering new methods to create images and videos.
+- Reducing the time it takes for users to produce images and videos.
+- Eliminating creative barriers for some and opening up artisitc image and video creation to a new audience
+* Market Size
+    - Global AI market image generator size is about USD 917.448 million by 2030, with a CAGR of 17.4%.[17]
+    - Estimates on market size are in 2022 $15.42 billion and projected to grow to 84.69 billion by 2030.[16]
+    - Target Audience is creative people such as artists, designers, marketing professionals, content creators, social media managers, animators and game developers. 
+* Note: Sizing the market is a bit challenging for these reasons:
     - Its a new and emerging market that is rapdialy evolving. 
     - Stability AI spans several broad industries like design, art, marketing and even research. 
     - Open source model can be difficult to quantify monetaritly. 
-Estimates on market size are in 2022 $15.42 billion and projected to grow to 84.69 billion by 2030. <br />
-[AI Text Generator Market Size, Share & Growth Report, 2030:](https://www.grandviewresearch.com/industry-analysis/ai-text-generator-market-report).
-* StabilityAI positions themselves in the market in the following ways:
-    - Open Source is where their core models are built therefore anyone can access these models, use them and contribute to them. This fosters a strong developer community, attracts talent, and rapid innovation vs the closed models of the competitors. 
-    - Diffusion Technology is a unique approach that excels in generating diverse, high-quality outputs with more control over the generation process. 
-    - Decentralization avoids control by 1 company or government. 
+* StabilityAI Solution:
+    - By adopting open-source, Stability AI allows its core models available to anyone to use, modify, and contribute to. This fosters a strong developer community, attracting talent and accelerating innovation vs competitors with closed models. In addition, open source is a decentralized platform that avoids control by 1 company or government. 
+    - StabilityAI uses a technology called Diffusion Technology which is a unique approach that excels in generating diverse, high-quality outputs with more control over the generation process. 
 
-* Technoogy:
-    - Diffustion Models which work by gradually adding noise to an image then learning to reverse the process and then generating a new image based on the prompt.The diffusion technology pioneered by StabilityAI are more efficient and produce high quality images and videos. 
-    - Transformer architecture included in models like StableLM 
-    - Machine Learning Frameworks like TensorFlow and PyTorch
+* Technology Solution:
+    - Utilizing a Diffustion Models which work by gradually adding noise to an image then learning to reverse the process and then generating a new image based on the prompt.The diffusion technology pioneered by StabilityAI are more efficient and produce high quality images and videos. 
+    - Transformer architecture is included in model architecture.
+    - Machine Learning Frameworks like TensorFlow and PyTorch.
 
-
-## Landscape
-
+## Business Landscape
 * StabiityAI operates in the field of Generative AI or AI for content creation. This field focuses on developing model that create new and original content such images audio and video that is based on user prompts or text instructions. 
 * The field of Generative AI has has seen dramatic growth in the past 10 years:
     - 2014: The introduction of Generative Adversarial Networks (GAN's) was a major step foward in this technology allowing for the creation of high quality realistic looking images. 
@@ -44,7 +38,6 @@ Estimates on market size are in 2022 $15.42 billion and projected to grow to 84.
     - 2020: The inroduction of diffusion models showed a new approach to Generative AI. These models work gradually by adding noise to an image and then revrsing the process and creating a new image based on the instructions/prompts. 
 
 ## The Competitive Landscape:
-
 **Feature** | **Stability AI** | **OpenAI (DALL-E 2)** | **Midjourney** | **RunwayML** | **Craiyon** |
 ------- | -------- | -------- | -------- | -------- | -------- |
 **Open Source** | Yes (core models) | No | No | No | No |
@@ -53,17 +46,18 @@ Estimates on market size are in 2022 $15.42 billion and projected to grow to 84.
 **Image Quality** | High, Diverse | High Fidelity, Photorealistic | Artistic, Dreamlike | Stylized, Surreal | Varies, Meme-like |
 **Text-to-Image Control** | Detailed Prompts, Style Transfer | Extensive Prompt Control | Limited Prompt Control | Moderate Prompt Control | Simple Prompts |
 **Pricing** | Freemium (core models), Paid Services | Paid API Access | Paid Subscription | Paid Subscription | Free & Pro Versions |
+[1],[2],[3],[4],[5]
 **Note:**
 * At the time of this writing OpenAI has given a preview of the new text to Video which is showing extremely realistic and promising results which is most likey to be releaed in 2024.
 
-## Results
-
+## Impact
 * StabilityAI core diffusion technology has led the industry on whats possible with text-to-image generation by acheiving high fidelity results. There is potential to disrupt various creative industries like design, advertising, entertainment and content creation. StabiityAI open-source approach engages the community which accelerates innovation, development and adoption. 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 * Financial Stability
     - StabilityAI has acheived what some have called Unicorn status but there are indications that they have experienced substanstial financial losses. In Nov 2023 there are repots that the CEO was being pressured to resign and company was looking for buyers.[6]
 * Market Reach 
     - The open source approach has potential to lead in the market vs closed source models like OpenAI but lack of user friendly interface could present challengs for the non-technical users. 
+
 ## Recommendations
 # To Increase Market Reach
  -  Offer a more User-Friendly Interface for non-technical users that is more intuitive offering text input, image editing and collabrative features. This would increae market penetration and enhance the image of the brand. 
@@ -87,3 +81,6 @@ Estimates on market size are in 2022 $15.42 billion and projected to grow to 84.
 12. Amazon Web Services (AWS): [https://aws.amazon.com/](https://aws.amazon.com/)
 13. Microsoft Azure: [https://azure.microsoft.com/en-us](https://azure.microsoft.com/en-us)
 14. Google Cloud Platform (GCP): [https://cloud.google.com/](https://cloud.google.com/)
+15. Stability AI Company Profile: [https://www.crunchbase.com/organization/stability-ai]
+16. AI Text Generator Market Size, Share & Growth Report, 2030:[https://www.grandviewresearch.com/industry-analysis/ai-text-generator-market-report]
+17. The global AI image generator market size: [https://www.fortunebusinessinsights.com/ai-image-generator-market-108604]
