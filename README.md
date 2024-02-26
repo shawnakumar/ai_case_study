@@ -43,19 +43,18 @@ Estimates on market size are in 2022 $15.42 billion and projected to grow to 84.
     - 2017: Transformers were introduced with the paper [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf) (Vaswani et al., 2017) which changed the whole landscape of NLP (Natural Language Processing) and led to advancements in text to image models. 
     - 2020: The inroduction of diffusion models showed a new approach to Generative AI. These models work gradually by adding noise to an image and then revrsing the process and creating a new image based on the instructions/prompts. 
 
-* The Major companies in this competitive landscape:
-## Competitive Landscape:
+## The Competitive Landscape:
 
-**Feature** | **Stability AI** | **OpenAI (DALL-E 2)** | **Midjourney** | **RunwayML** | **Craiyon** | **NVIDIA** | **Google AI** |
+**Feature** | **Stability AI** | **OpenAI (DALL-E 2)** | **Midjourney** | **RunwayML** | **Craiyon**  
 ------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-**Open Source** | Yes (core models) | No | No | No | No | No | Limited |
-**Target User** | Developers, Artists, Researchers | Researchers, Businesses | Artists, Designers | Creative Professionals | General Users | N/A | Researchers, Developers |
-**Accessibility** | Web Interface, API, Integrations | Closed Beta, API Access | Waitlist & Paid Subscription | Paid Subscription | Free Web Interface | N/A | Limited Access |
-**Image Quality** | High, Diverse | High Fidelity, Photorealistic | Artistic, Dreamlike | Stylized, Surreal | Varies, Meme-like | N/A | Varies |
-**Text-to-Image Control** | Detailed Prompts, Style Transfer | Extensive Prompt Control | Limited Prompt Control | Moderate Prompt Control | Simple Prompts | N/A | Varies |
-**Pricing** | Freemium (core models), Paid Services | Paid API Access | Paid Subscription | Paid Subscription | Free & Pro Versions | N/A | Research-focused |
-**Key Strengths** | Open-source, efficiency, community, decentralization | High quality, research focus | Artistic style, unique outputs | Ease of use, diverse styles | Free access, meme generation | Hardware acceleration | Broad research focus |
-**Key Weaknesses** | Misuse potential, sustainability, competition | Closed-source, limited access | Waitlist, limited control | Lower customization | Lower quality, potential bias | N/A | Limited user-facing applications |
+**Open Source** | Yes (core models) | No | No | No | No 
+**Target User** | Developers, Artists, Researchers | Researchers, Businesses | Artists, Designers | Creative Professionals | General Users
+**Accessibility** | Web Interface, API, Integrations | Closed Beta, API Access | Waitlist & Paid Subscription | Paid Subscription | Free Web Interface 
+**Image Quality** | High, Diverse | High Fidelity, Photorealistic | Artistic, Dreamlike | Stylized, Surreal | Varies, Meme-like 
+**Text-to-Image Control** | Detailed Prompts, Style Transfer | Extensive Prompt Control | Limited Prompt Control | Moderate Prompt Control | Simple Prompts 
+**Pricing** | Freemium (core models), Paid Services | Paid API Access | Paid Subscription | Paid Subscription | Free & Pro Versions 
+**Key Strengths** | Open-source, efficiency, community, decentralization | High quality, research focus | Artistic style, unique outputs | Ease of use, diverse styles | Free access, meme generation
+**Key Weaknesses** | Misuse potential, sustainability, competition | Closed-source, limited access | Waitlist, limited control | Lower customization | Lower quality, potential bias 
 
 ## Results
 
