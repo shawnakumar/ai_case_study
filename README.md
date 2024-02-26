@@ -42,10 +42,10 @@ The field of Generative AI has has seen dramatic growth in the past 10 years:
 ------- | -------- | -------- | -------- | -------- | -------- |
 **Open Source** | Yes (core models) | No | No | No | No |
 **Target User** | Developers, Artists, Researchers | Researchers, Businesses | Artists, Designers | Creative Professionals | General Users |
-**Accessibility** | Web Interface, API, Integrations | Closed Beta, API Access | Waitlist & Paid Subscription | Paid Subscription | Free Web Interface |
-**Image Quality** | High, Diverse | High Fidelity, Photorealistic | Artistic, Dreamlike | Stylized, Surreal | Varies, Meme-like |
+**Accessibility** | Web Interface, API, Integrations | Closed Beta, API Access | Waitlist & Paid Subscription | Subscription | Free Web Interface |
+**Image Quality** | High, Diverse | High Fidelity| Artistic, Dreamlike | Stylized, Surreal | Varies, Meme-like |
 **Text-to-Image Control** | Detailed Prompts, Style Transfer | Extensive Prompt Control | Limited Prompt Control | Moderate Prompt Control | Simple Prompts |
-**Pricing** | Freemium (core models), Paid Services | Paid API Access | Paid Subscription | Paid Subscription | Free & Pro Versions |
+**Pricing** | Freemium, Paid Services | Paid API Access | Paid Subscription | Paid Subscription | Free & Pro Versions |
 [1],[2],[3],[4],[5]
 **Note:**
 * At the time of this writing OpenAI has given a preview of the new text to Video which is showing extremely realistic and promising results which is most likey to be releaed in 2024.
