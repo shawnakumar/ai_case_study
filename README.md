@@ -59,7 +59,7 @@ StabilityAI operates in the field of Generative AI, focusing on developing model
 | Text-to-Image Control | Detailed Prompts, Style Transfer | Extensive Prompt Control | Limited Prompt Control | Moderate Prompt Control | Simple Prompts |
 [^1], [^2], [^3], [^4], [^5]
 ## Impact
-* StabilityAI core diffusion technology has led the industry on whats possible with text-to-image generation by acheiving high fidelity results. There is potential to disrupt various creative industries like design, advertising, entertainment and content creation. StabiityAI open-source approach engages the community which accelerates innovation, development and adoption. 
+* StabilityAI core diffusion technology has led the industry on whats possible with text-to-image generation by acheiving high fidelity results. This technology has the potential to disrupt various creative industries. 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 * Financial Stability
     - StabilityAI has acheived what some have called Unicorn status but there are indications that they have experienced substanstial financial losses. In Nov 2023 there are repots that the CEO was being pressured to resign and company was looking for buyers.[6]
