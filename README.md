@@ -48,7 +48,7 @@ StabilityAI operates in the field of Generative AI, focusing on developing model
 * **2017:** Transformers were introduced with the paper "Attention Is All You Need" [^18], changing the NLP (Natural Language Processing) landscape and leading to advancements in text-to-image models.
 * **2020:** Introduction of diffusion models offered a new approach to Generative AI. These models work by gradually adding noise to an image and then reversing the process, creating a new image based on instructions/prompts [^4].
 
-## The Competitive Landscape
+## The Competitive Landscape [^1], [^2], [^3], [^4], [^5]
 
 | Feature | Stability AI | OpenAI | Midjourney | RunwayML | Craiyon |
 |---|---|---|---|---|---|
