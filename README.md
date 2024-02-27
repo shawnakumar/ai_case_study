@@ -71,13 +71,16 @@ Business Sucess Metric Comparison (Stability AI vs Competitors )
     - The open source approach has potential to lead in the market vs closed source models like OpenAI but lack of user friendly interface could present challengs for the non-technical users. 
 
 ## Recommendations
-To Increase Market Reach
+To Increase Market Reach:
+
  -  Offer a more User-Friendly Interface for non-technical users that is more intuitive offering text input, image editing and collabrative features. This would increae market penetration and enhance the image of the brand. 
  - Offer Enterprise-level AI solutoins and Partnerships that are customized to specific industries. This would diversity the revenue stream, bring in high value contracts and foster innovation in specific indsutries. 
-Technolgies needed
+
+Technolgies needed:
   - Front-end development frameworks (ReactJS, Angular and Vue.JS). These frameworks allow a more rapid devlopment cycle and provide the abiity to offer a more modern intuitive interface. [7],[8],[9]
   - Back-end development frameworks (Node.JS and Python). Provide a flexible and efficient foundation for server side logic in a more efficient manner. [10],[11]
   - Cloud Infrastruture (AWS, MS Azure, Google Cloud). These offer a more scalable and reliable computing resources that can scale with teh user base. [12],[13],[14]
+  
 ## References
 1. Stability AI: [Stability AI](https://stability.ai/)
 2. OpenAI: [OpenAI](https://openai.com/)
