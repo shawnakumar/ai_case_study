@@ -48,7 +48,7 @@ StabilityAI operates in the field of Generative AI, focusing on developing model
 * **2017:** Transformers were introduced with the paper "Attention Is All You Need" [^18], changing the NLP (Natural Language Processing) landscape and leading to advancements in text-to-image models.
 * **2020:** Introduction of diffusion models offered a new approach to Generative AI. These models work by gradually adding noise to an image and then reversing the process, creating a new image based on instructions/prompts [^4].
 
-## The Competitive Landscape [[<sup style="color:red;">^1</sup>], [^2], [^3], [^4], [^5]
+## The Competitive Landscape
 
 | Feature | Stability AI | OpenAI | Midjourney | RunwayML | Craiyon |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@ StabilityAI operates in the field of Generative AI, focusing on developing model
 | Accessibility | Web Interface, API, Integrations | Closed Beta, API Access | Waitlist & Paid Subscription | Subscription | Free Web Interface |
 | Image Quality | High, Diverse | High Fidelity | Artistic, Dreamlike | Stylized, Surreal | Varies, Meme-like |
 | Text-to-Image Control | Detailed Prompts, Style Transfer | Extensive Prompt Control | Limited Prompt Control | Moderate Prompt Control | Simple Prompts |
-
+[^1], [^2], [^3], [^4], [^5]
 ## Impact
 * StabilityAI core diffusion technology has led the industry on whats possible with text-to-image generation by acheiving high fidelity results. There is potential to disrupt various creative industries like design, advertising, entertainment and content creation. StabiityAI open-source approach engages the community which accelerates innovation, development and adoption. 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
