@@ -53,7 +53,6 @@ StabilityAI operates in the field of Generative AI, focusing on developing model
 [^1], [^2], [^3], [^4], [^5]
 
 ## Results | Business Impact
-* Comparing Business Metrics:
 | Feature | Stability AI | OpenAI | Midjourney | RunwayML | Craiyon |
 |---|---|---|---|---|---|
 | Open Source | Yes (core models) | No | No | No | No |
