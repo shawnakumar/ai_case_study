@@ -65,9 +65,9 @@ Business Sucess Metric Comparison (Stability AI vs Competitors )
 
 ## Business Impact 
 *   StabilityAI core diffusion technology has led the industry on what is possible with text-to-image generation by acheiving high fidelity results. This technology has the potential to disrupt various creative industries. 
-* Financial Stability
+* Financial Performance
     - StabilityAI has acheived what some have called Unicorn status but there are indications that they have experienced substanstial financial losses. In Nov 2023 there are repots that the CEO was being pressured to resign and company was looking for buyers.[6]
-* Market Reach 
+* Market Reach and Impact 
     - The open source approach has potential to lead in the market vs closed source models like OpenAI but lack of user friendly interface could present challengs for the non-technical users. 
 
 ## Recommendations
