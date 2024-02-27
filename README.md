@@ -43,6 +43,7 @@ StabilityAI operates in the field of Generative AI, focusing on developing model
 
 ## The Competitive Landscape
 
+Competitive Feature Comparison
 | Feature | Stability AI | OpenAI | Midjourney | RunwayML | Craiyon |
 |---|---|---|---|---|---|
 | Open Source | Yes (core models) | No | No | No | No |
