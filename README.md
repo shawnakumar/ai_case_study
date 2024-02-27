@@ -11,7 +11,7 @@ With a funding of $173.8 million to date investors have shown confidence in Stab
 
 ## Problem Statement, Solution, and Technology
 
-**Challenges Addressed by StabilityAI:**
+**Challenges Addressed by Stability AI:**
 * Enhancing the artistic expression and imagination by offering new methods to create images and videos.
 * Reduces the time spent on creating images and videos.
 * Eliminates barriers for some users and opening a new market for a new audience of users. 
@@ -43,7 +43,7 @@ StabilityAI operates in the field of Generative AI, focusing on developing model
 
 ## The Competitive Landscape
 
-Competitive Feature Comparison
+Competitive Feature Comparison (Stability AI vs Competitors )
 | Feature | Stability AI | OpenAI | Midjourney | RunwayML | Craiyon |
 |---|---|---|---|---|---|
 | Open Source | Yes (core models) | No | No | No | No |
@@ -55,7 +55,7 @@ Competitive Feature Comparison
 
 ## Results | Business Impact
 
-Business Metric Comparison
+Business Sucess Metric Comparison (Stability AI vs Competitors )
 | Feature | Stability AI | OpenAI (Dall-E)| Midjourney | RunwayML | Craiyon |
 |---|---|---|---|---|---|
 | **Model Performance** | Competitive, achieving high-fidelity results | Considered top-tier in terms of realism | Offers unique artistic styles | Well-rounded performance, good for specific use cases | Primarily focused on humor and memes |
