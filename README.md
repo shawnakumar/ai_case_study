@@ -55,16 +55,11 @@ StabilityAI operates in the field of Generative AI, focusing on developing model
 ## Results | Business Impact
 
 Business Metric Comparison
-| Feature | Stability AI | OpenAI | Midjourney | RunwayML | Craiyon |
+| Feature | Stability AI | OpenAI (Dall-E)| Midjourney | RunwayML | Craiyon |
 |---|---|---|---|---|---|
-| Open Source | Yes (core models) | No | No | No | No |
-| Target User | Developers, Artists, Researchers | Researchers, Businesses | Artists, Designers | Creative Professionals | General Users |
-| Accessibility | Web Interface, API, Integrations | Closed Beta, API Access | Waitlist & Paid Subscription | Subscription | Free Web Interface |
-| Image Quality | High, Diverse | High Fidelity | Artistic, Dreamlike | Stylized, Surreal | Varies, Meme-like |
-| Text-to-Image Control | Detailed Prompts, Style Transfer | Extensive Prompt Control | Limited Prompt Control | Moderate Prompt Control | Simple Prompts |
 | **Model Performance** | Competitive, achieving high-fidelity results | Considered top-tier in terms of realism | Offers unique artistic styles | Well-rounded performance, good for specific use cases | Primarily focused on humor and memes |
 | **User Adoption and Engagement** | Growing user base, but may face challenges due to user-friendliness for non-technical users | Limited access to closed beta | Popular among artists and designers | Medium user base | Very large user base |
-| **Market Reach and Impact** | Open-source fosters wider adoption and community contributions, but enterprise applications might be limited. | Limited market reach due to closed access. | Strong presence in the artist and design community. | Focuses on specific creative use cases. | Larg user base but mostly for casual image generation. |
+| **Market Reach and Impact** | Open-source fosters wider adoption and community contributions, but limited enterprise applications | Limited market reach due to closed access. | Strong presence in the artist and design community. | Focuses on specific creative use cases. | Large user base but mostly for casual image generation. |
 | **Financial Performance** | Unclear financials, with reports of both substantial funding and potential financial losses. | Limited information available. | Relies on paid subscriptions. | Business model rapidly evolving | Relies on ad revenue. |
 
 ## Business Impact 
