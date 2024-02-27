@@ -1,5 +1,5 @@
 ps# ai_case_study
-## AI Case Study of StabilityAI with Colored Footnotes and Jumping Links
+## AI Case Study of StabilityAI 
 
 ## Introduction
 
@@ -27,7 +27,8 @@ StabilityAI has a total funding of $173.8 million to date [^15]. This financial 
 
 * It's a new and rapidly evolving market [^16] [^17].
 * Stability AI spans several broad industries [^16].
-* Open-source models can be difficult to quantify monetarily [^16].
+* Open-source models can b
+e difficult to quantify monetarily [^16].
 
 **StabilityAI Solution:**
 
@@ -58,9 +59,22 @@ StabilityAI operates in the field of Generative AI, focusing on developing model
 | Image Quality | High, Diverse | High Fidelity | Artistic, Dreamlike | Stylized, Surreal | Varies, Meme-like |
 | Text-to-Image Control | Detailed Prompts, Style Transfer | Extensive Prompt Control | Limited Prompt Control | Moderate Prompt Control | Simple Prompts |
 [^1], [^2], [^3], [^4], [^5]
-## Impact
-* StabilityAI core diffusion technology has led the industry on whats possible with text-to-image generation by acheiving high fidelity results. This technology has the potential to disrupt various creative industries. 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+
+## Results | Business Impact
+| Feature | Stability AI | OpenAI (DALL-E 2) | Midjourney | RunwayML | Craiyon |
+|---|---|---|---|---|---|
+| Open Source | Yes (core models) | No | No | No | No |
+| Target User | Developers, Artists, Researchers | Researchers, Businesses | Artists, Designers | Creative Professionals | General Users |
+| Accessibility | Web Interface, API, Integrations | Closed Beta, API Access | Waitlist & Paid Subscription | Subscription | Free Web Interface |
+| Image Quality | High, Diverse | High Fidelity | Artistic, Dreamlike | Stylized, Surreal | Varies, Meme-like |
+| Text-to-Image Control | Detailed Prompts, Style Transfer | Extensive Prompt Control | Limited Prompt Control | Moderate Prompt Control | Simple Prompts |
+| **Model Performance** | Competitive, achieving high-fidelity results | Considered top-tier in terms of realism | Offers unique artistic styles | Well-rounded performance, good for specific use cases | Primarily focused on humor and memes |
+| **User Adoption and Engagement** | Growing user base, but may face challenges due to user-friendliness for non-technical users | Limited access due to closed beta | Popular among artists and designers | Moderate user base | Very large, general user base |
+| **Market Reach and Impact** | Open-source approach fosters wider adoption and community contributions, but commercial applications might be limited. | Limited market reach due to closed access. | Strong presence in the artist and design community. | Focuses on specific creative use cases. | Largest user base but primarily used for casual image generation. |
+| **Financial Performance** | Unclear financial performance, with reports of both substantial funding and potential financial losses. | Limited information available due to its non-profit nature. | Primarily relies on paid subscriptions. | Business model still evolving. | Primarily relies on ad revenue. |
+
+# Business Impact 
+*   StabilityAI core diffusion technology has led the industry on whats possible with text-to-image generation by acheiving high fidelity results. This technology has the potential to disrupt various creative industries. 
 * Financial Stability
     - StabilityAI has acheived what some have called Unicorn status but there are indications that they have experienced substanstial financial losses. In Nov 2023 there are repots that the CEO was being pressured to resign and company was looking for buyers.[6]
 * Market Reach 
